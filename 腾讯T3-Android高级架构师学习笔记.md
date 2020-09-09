@@ -32,7 +32,7 @@
 ![腾讯T3架构资料](https://upload-images.jianshu.io/upload_images/24099992-93fac83cb3643439.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 
-**资料获取方式：加入合作腾讯@Android高级架构Qqun：818520403，管理处免费领取资料**
+**资料获取方式：加入合作Android NDK Qqun：670120170，管理处免费领取资料**
 
 群内有许多来自一线的技术大牛，也有在小厂或外包公司奋斗的码农，我们致力打造一个平等，高质量的Android交流圈子，不一定能短期就让每个人的技术突飞猛进，但从长远来说，眼光，格局，长远发展的方向才是最重要的。
 
@@ -40,7 +40,7 @@
 
 有任何问题，欢迎一起学习交流。
 
-**入口：**[https://jq.qq.com/?_wv=1027&k=aB5jTTH6](https://jq.qq.com/?_wv=1027&k=aB5jTTH6)
+**入口：**群聊【Android NDK】：https://jq.qq.com/?_wv=1027&k=3KFf8jGz
 
 ## [](https://github.com/Android-Alvin/Android-P7/blob/master/Android%E5%BC%80%E5%8F%91%E8%BF%98%E4%B8%8D%E4%BC%9A%E8%BF%99%E4%BA%9B%EF%BC%9F%E5%A6%82%E4%BD%95%E9%9D%A2%E8%AF%95%E6%8B%BF%E9%AB%98%E8%96%AA%EF%BC%81.md#1阿里p7级全套高级学习视频七大专题)1.【腾讯T3级全套高级学习资料】九大专题：
 
@@ -113,7 +113,7 @@ Java 是 Android App 开发默认的语言, Android Framework 也是默认使用
 
  ![](https://upload-images.jianshu.io/upload_images/24099992-b7d9a147a1e03662.png?imageMogr2/auto-orient/strip|imageView2/2/w/958/format/webp)
 
-只有系统，有方向的学习，才能在段时间内迅速提高自己的技术。
+只有系统，有方向的学习，才能在短时间内迅速提高自己的技术。
 
 本知识体系适合于所有Android程序员学习，关于以上目录中的知识点都有详细的讲解及介绍，掌握该知识点的所有内容对你会有一个质的提升，其中也总结了很多面试过程中遇到的题目以及有对应的答案总结。
 
@@ -125,7 +125,8 @@ Java 是 Android App 开发默认的语言, Android Framework 也是默认使用
 
 ## [](https://github.com/Android-Alvin/Android-P7/blob/master/Android%E5%BC%80%E5%8F%91%E8%BF%98%E4%B8%8D%E4%BC%9A%E8%BF%99%E4%BA%9B%EF%BC%9F%E5%A6%82%E4%BD%95%E9%9D%A2%E8%AF%95%E6%8B%BF%E9%AB%98%E8%96%AA%EF%BC%81.md#资料获取)资料获取：
 
-![腾讯@Android高级架构群](https://upload-images.jianshu.io/upload_images/24099992-b302aecac899f0b2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-**加入合作腾讯@Android高级架构Qqun：818520403，管理处免费领取资料**
+**加入合作Qqun：670120170，管理处免费领取资料，或者是VX：15607489757**
+
+点击链接加入群聊【Android NDK】：https://jq.qq.com/?_wv=1027&k=3KFf8jGz
 
 **Android架构师之路很漫长，一起共勉吧！**
